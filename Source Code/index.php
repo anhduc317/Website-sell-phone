@@ -1,6 +1,6 @@
 <?php
 /**
- * Nguyen Chi Vy binh chanh
+ *
  * CodeIgniter
  * Do Thanh Trung
  * An open source application development framework for PHP
